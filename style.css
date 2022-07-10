@@ -1,0 +1,41 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    background-color: yellowgreen;
+    padding-top: 5%;
+}
+h1{
+
+    font-size: 50px;
+   
+   
+}
+.Name-color{
+
+    color: blue;
+}
+section{
+
+    display: flex;
+}
+.half-width{
+
+    width: 50%;
+}
+.half-width img{
+
+    width: 100%;
+    
+    padding-right: 5%;
+ 
+}
+.visit{
+
+    text-decoration: none;
+    background-color: aqua;
+    padding: 10px 30px;
+    border-radius: 7%;
+
+}
