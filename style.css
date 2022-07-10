@@ -3,7 +3,7 @@ body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Ubuntu', sans-serif;
     text-align: center;
-    background-color: yellowgreen;
+
     padding-top: 5%;
 }
 h1{
@@ -19,6 +19,8 @@ h1{
 section{
 
     display: flex;
+    margin-bottom: 10%;
+     border: 10%;
 }
 .half-width{
 
@@ -38,4 +40,41 @@ section{
     padding: 10px 30px;
     border-radius: 7%;
 
+}
+.green-food{
+
+
+        text-decoration: none;
+        background-color: aqua;
+        padding: 10px 30px;
+        border-radius: 7%;
+}
+.second-part{
+
+padding: 10%;
+padding-left: 0%;
+color: rgb(255, 0, 195);
+    
+}
+.red{
+
+    color: red;
+}
+.sec-img img{
+
+    width: 70%;
+}
+.box {
+    width: 200px;
+    height: 100px;
+    0px -5px 10px 0px rgba(0, 0, 0, 0.5) padding: 5px 5px;
+    float: left;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    margin-left: 80px;
+    color: gray;
+    background-color: #FBFBFB;
+    margin-right: 10px;
 }
